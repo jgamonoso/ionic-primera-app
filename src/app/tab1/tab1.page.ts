@@ -15,5 +15,6 @@ export class Tab1Page implements OnInit{
     numero = numero + 10;
     numero = 0;
     console.log(numero);
+    console.log('prueba');
   }
 }
